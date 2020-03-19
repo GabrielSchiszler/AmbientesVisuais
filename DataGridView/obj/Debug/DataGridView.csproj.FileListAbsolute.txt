@@ -1,0 +1,10 @@
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.FormCadastro.resources
+C:\Users\RICARDOSCHISZLERLOUR\source\repos\DataGridView\obj\Debug\DataGridView.FormLogin.resources
